@@ -1,5 +1,9 @@
 # ADKILLER
 
+
+## BLOCK EVERY AD ON EVERY WEBSITE OR PROGRAM ON YOUR COMPUTER WITH JUST ONE CLICK
+
+
 ## Description
 
 When you want to connect a website, your computer requests IP adress from your DNS server. But if your computer has that IP adress in its hosts file, then it tries to connect that
@@ -14,3 +18,6 @@ You need to install this [hosts](https://winhelp2002.mvps.org/hosts.zip) file an
 
 Python version 3 required.
 
+## WARNINGS
+
+This is a beta version. I am not responsible for any issues on your computer. Using this code is all your own risk.
