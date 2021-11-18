@@ -6,7 +6,7 @@
 
 ## Description
 
-When you want to connect a website, your computer requests IP adress from your DNS server. But if your computer has that IP adress in its hosts file, then it tries to connect that
+When you want to connect a website, your computer requests IP adress from your DNS server. But if your computer has that IP adress in it's hosts file, then it tries to connect that
 IP adress. 
 
 What we are doing is adding a blacklist to our hosts file that makes whenever computer tries to connect an ad provider site, it's tries to connect local host instead of going to DNS server.
