@@ -25,3 +25,6 @@ Python version 3 required.
 ## WARNINGS
 
 This is a beta version. I am not responsible for any issues on your computer. Using this code is all your own risk.
+
+
+Visit [winhelp2002.mvps.org](winhelp2002.mvps.org) for original idea.
