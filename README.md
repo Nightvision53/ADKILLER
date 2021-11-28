@@ -8,6 +8,7 @@
 
 ### After
 <img src="https://github.com/Nightvision53/ADKILLER/blob/master/After.png?raw=true" alt="after" width="600px" height="whatever">
+
 ## Description
 
 When you want to connect a website, your computer requests IP adress from your DNS server. But if your computer has that IP adress in it's hosts file, then it tries to connect that
