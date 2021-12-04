@@ -29,7 +29,7 @@ def savedefault():
 
 def makeblacklist():
     target = open(target_dest, "a")
-    blacklist = open("hosts", "r")
+    blacklist = open("HOSTS", "r")
 
     target.write(blacklist.read())
 
